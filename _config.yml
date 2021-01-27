@@ -1,1 +1,14 @@
 theme: jekyll-theme-cayman
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "ko-KO"
+title                    : "Hebina's Blog"
+title_separator          : "-"
+name                     : "Hebina Lee"
+description              : "Studying deep learning for medical image analyst."
+url                      : "https://hebinalee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+
